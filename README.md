@@ -5,6 +5,12 @@ Altair personal slc constrained linear regression to reduce penalties for over u
     %stop_submission;
 
     Altair personal slc constrained linear regression to reduce penalties for over under estimates
+    
+    Too long to post on a listserv
+
+    github
+    https://github.com/rogerjdeangelis/utl-altair-personal-slc-constrained-linear-regression-to-reduce-penalties-for-over-under-estimates
+
 
     community.altair
     https://community.altair.com/discussion/57707
