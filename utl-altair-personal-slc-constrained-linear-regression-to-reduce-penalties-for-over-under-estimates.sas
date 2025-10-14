@@ -4,6 +4,11 @@
 
 Altair personal slc constrained linear regression to reduce penalties for over under estimates
 
+Too long to post on a listserv, see github
+
+github
+https://github.com/rogerjdeangelis/utl-altair-personal-slc-constrained-linear-regression-to-reduce-penalties-for-over-under-estimates
+
 community.altair
 https://community.altair.com/discussion/57707
 https://community.altair.com/discussion/57707/provide-bias-to-regression-model-to-reduce-total-cost-of-mistakes?tab=all&utm_source=community-search&utm_medium=organic-search&utm_term=%20fifferential%20equations
